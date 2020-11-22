@@ -1,6 +1,8 @@
 data
 models
 *.pth
+.vscode/
+video_frames/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
